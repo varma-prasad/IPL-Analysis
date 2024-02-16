@@ -9,6 +9,7 @@
 * [Problem Statement 3](#analysis3)
 * [Problem Statement 4](#analysis4)
 * [Problem Statement 5](#analysis5)
+* [All Queries](https://github.com/varma-prasad/IPL-Analysis/blob/main/SQL%20Queries.pdf)
 
 
 
